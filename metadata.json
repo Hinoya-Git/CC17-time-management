@@ -1,0 +1,6 @@
+{
+  "name": "Time Management Calendar",
+  "description": "Interactive color-coded daily calendar with drag-and-drop scheduling, camera AI schedule scanner, discrepancy resolution, and Android Studio synchronization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

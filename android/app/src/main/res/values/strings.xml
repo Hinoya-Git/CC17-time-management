@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeFlow Calendar</string>
+    <string name="camera_permission_required">Camera permission is required to scan schedule documents, whiteboards, and notes.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="offline_message">No internet connection. Loading cached schedule…</string>
+    <string name="reload_app">Retry</string>
+</resources>
